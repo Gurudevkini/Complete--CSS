@@ -30,31 +30,34 @@ No frameworks for now — just raw CSS power. (Maybe some frameworks will crash 
 ✨ Animation, Transition & Transform (motion that feels 🔥)
 
 📁 Folder Structure 
+<pre>
 CSS-Complete/
 ├── Introduction/
 ├── CSS-Basics/
-│   ├── selectors.html
-│   └── specificity-demo.css
+│&nbsp;&nbsp;├── selectors.html
+│&nbsp;&nbsp;└── specificity-demo.css
 ├── Color-System-and-Background/
-│   ├── palette.md
-│   └── gradients-demo.html
+│&nbsp;&nbsp;├── palette.md
+│&nbsp;&nbsp;└── gradients-demo.html
 ├── Text-Properties/
-│   ├── typography.html
-│   └── webfonts-demo/
+│&nbsp;&nbsp;├── typography.html
+│&nbsp;&nbsp;└── webfonts-demo/
 ├── Box-Model/
-│   └── box-examples.html
+│&nbsp;&nbsp;└── box-examples.html
 ├── Display-and-Position/
-│   └── stacking-contexts.html
+│&nbsp;&nbsp;└── stacking-contexts.html
 ├── Flexbox-Grid-and-Media-Queries/
-│   ├── flexbox-examples.html
-│   ├── grid-examples.html
-│   └── responsive-playground/
+│&nbsp;&nbsp;├── flexbox-examples.html
+│&nbsp;&nbsp;├── grid-examples.html
+│&nbsp;&nbsp;└── responsive-playground/
 ├── Animation-Transition-and-Transform/
-│   └── micro-interactions.html
+│&nbsp;&nbsp;└── micro-interactions.html
 ├── experiments/
-│   └── weird-css-hacks/
+│&nbsp;&nbsp;└── weird-css-hacks/
 └── Resources/
-    └── cheatsheets.md
+    &nbsp;&nbsp;└── cheatsheets.md
+</pre>
+
 
 🧩 How to use (quick start)
 
@@ -124,9 +127,9 @@ Be curious, make tiny experiments, and celebrate one small visual win every day.
 
 Happy styling — and remember: !important is not a life philosophy, it’s a last resort. 😏
 
-Made with ❤️, bad puns, and too many color palettes — by [Your Name]
+Made with ❤️, bad puns, and too many color palettes — by GUrudev Kini
 
-Want me to:
+you can :
 
 Add a gorgeous intro GIF or header image? 🖼️
 
