@@ -29,10 +29,9 @@ No frameworks for now — just raw CSS power. (Maybe some frameworks will crash 
 
 ✨ Animation, Transition & Transform (motion that feels 🔥)
 
-📁 Folder Structure (copy/paste ready)
+📁 Folder Structure 
 CSS-Complete/
 ├── Introduction/
-│   └── README.md
 ├── CSS-Basics/
 │   ├── selectors.html
 │   └── specificity-demo.css
@@ -61,7 +60,7 @@ CSS-Complete/
 
 Clone or fork:
 
-git clone https://github.com/yourusername/CSS-Complete.git
+git clone(https://github.com/Gurudevkini/Complete--CSS.git)
 
 
 Open any folder in your browser or code editor.
