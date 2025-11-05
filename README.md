@@ -90,7 +90,7 @@ Flexbox-Grid-and-Media-Queries/flexbox-examples.html — layout patterns you’l
 
 Animation-Transition-and-Transform/micro-interactions.html — polish that feels premium
 
-Color-System-and-Background/gradients-demo.html — gradients + blend modes = chef’s kiss 💋
+Color-System-and-Background/gradients-demo.html — gradients + blend modes = Wow !!
 
 🤝 Contributing
 
