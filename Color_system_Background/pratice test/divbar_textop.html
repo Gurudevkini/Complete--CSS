@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create a Div Bar</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    #divbar {
+      background-color: aquamarine;
+      color: rgba(255, 0, 0, 0.705);
+      padding: 10px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    main {
+      background-color: lightgrey;
+      padding: 20px;
+    }
+
+    #product {
+      width: 200px; /* ✅ corrected spelling from 'widith' */
+      height: 400px;
+      background-color: green url("jeans.jpeg") no-repeat center; /* ✅ corrected image syntax */
+      background-size: cover; /* makes image fit nicely */
+      border: 2px solid black;
+      color: white;
+      text-align: center;
+      line-height: 400px; /* vertically centers text */
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div id="divbar">This is a div bar with background color and text color</div>
+  </header>
+
+  <main>
+    <div id="product">Product 1</div>
+  </main>
+</body>
+</html>
